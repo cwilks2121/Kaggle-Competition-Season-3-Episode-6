@@ -48,7 +48,7 @@ df_sub.to_csv('submission1_Feb17.csv', index=False, sep=',')
 # scatterNumOfRooms.show()
 
 # hasYardBox = px.box(df_train, x='hasYard', y='price')
-# hasYardBox.show()  # Does not appear to be significant
+# hasYardBox.shown()  # Does not appear to be significant
 
 # hasPoolBox = px.box(df_train, x='hasPool', y='price')
 # hasPoolBox.show() # hasPool does not seem to be significant
